@@ -58,6 +58,7 @@ settings.local.json
 .cursor/
 .claude/*
 !.claude/skills/
+.agents/
 
 # Python specific
 **/__pycache__/**
